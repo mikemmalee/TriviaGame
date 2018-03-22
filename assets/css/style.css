@@ -1,0 +1,36 @@
+body {
+    background: url("../images/game-of-thrones-1349_acnx.jpg");
+    background-attachment: fixed;
+    background-position: center; 
+    margin: 0 auto;
+}
+
+.panel {
+    background-color: grey;
+    color: white;
+    opacity: 0.70;
+    margin: 0 auto; 
+    max-width: 800px;
+    height: 300px;
+    padding: 10px;
+    margin-top: 180px;
+    text-align: center;
+    border: none;
+    border-radius: 25px;
+    box-shadow: inset 0 0 10px black, 0 0 10px black;
+}
+
+.btn,
+.btn:hover,
+.btn:active,
+.btn:visited {
+    background-color: #353535;
+    border: none;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    padding-top: 20px;
+    text-shadow: 2px 2px 4px black;
+}
