@@ -1,5 +1,6 @@
 body {
     background: url("../images/game-of-thrones-1349_acnx.jpg");
+    background-color: black;
     background-attachment: fixed;
     background-position: center; 
     margin: 0 auto;
@@ -11,10 +12,11 @@ body {
     opacity: 0.70;
     margin: 0 auto; 
     max-width: 800px;
-    height: 300px;
+    min-height: 300px;
     padding: 10px;
     margin-top: 180px;
     text-align: center;
+    text-shadow: 2px 2px 4px black;
     border: none;
     border-radius: 25px;
     box-shadow: inset 0 0 10px black, 0 0 10px black;
